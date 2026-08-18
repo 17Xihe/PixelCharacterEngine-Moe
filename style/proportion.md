@@ -1,17 +1,17 @@
 # Character Proportion
 
 
-Body ratio:
+The character must have obvious chibi proportions.
 
 
 Head:
 
-35%
+40%
 
 
 Body:
 
-40%
+35%
 
 
 Legs:
@@ -22,19 +22,21 @@ Legs:
 
 Characteristics:
 
-Large head
 
-Small body
+- oversized cute head
+- small compact body
+- short limbs
+- tiny hands and feet
+- rounded silhouette
 
-Short legs
 
-Cute silhouette
+The character should feel like:
+
+a cute collectible game mascot.
 
 
 Avoid:
 
-realistic human proportions
-
-long legs
-
-thin fashion model body
+- realistic human proportions
+- tall body
+- realistic anatomy
