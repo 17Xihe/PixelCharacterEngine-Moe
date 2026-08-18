@@ -1,38 +1,21 @@
 Avoid:
 
 
-realistic human
+realistic facial proportions
 
-realistic body
+realistic adult face
 
-long legs
+normal human body ratio
 
-thin anime body
+pixel portrait
 
-3D character
+semi-realistic character
 
-painting style
+tall character
 
-smooth illustration
-
-
-Bad anatomy:
-
-extra fingers
-
-extra hands
-
-extra arms
-
-deformed face
+long torso
 
 
-Avoid background:
+Avoid:
 
-rooms
-
-stage
-
-landscape
-
-complex scenery
+turning the person into a normal pixel illustration.
