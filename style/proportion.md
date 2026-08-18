@@ -1,17 +1,20 @@
 # Character Proportion
 
 
-The character must have obvious chibi proportions.
+The character should look like a classic RPG pixel sprite.
+
+
+Body ratio:
 
 
 Head:
 
-40%
+32%
 
 
 Body:
 
-35%
+43%
 
 
 Legs:
@@ -23,20 +26,16 @@ Legs:
 Characteristics:
 
 
-- oversized cute head
-- small compact body
-- short limbs
-- tiny hands and feet
-- rounded silhouette
-
-
-The character should feel like:
-
-a cute collectible game mascot.
+- slightly large head
+- cute proportions
+- compact body
+- short but natural limbs
+- balanced game character silhouette
 
 
 Avoid:
 
-- realistic human proportions
-- tall body
-- realistic anatomy
+- giant head
+- mascot style
+- baby proportion
+- oversized anime head
