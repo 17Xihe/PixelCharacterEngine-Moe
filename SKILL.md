@@ -70,16 +70,29 @@ Generate final sprite.
 
 Always prioritize:
 
-1. Character identity
+1. Cute chibi character appearance
 
-2. Cute pixel style
+2. Character identity recognition
 
-3. Clothing recognition
+3. Pixel game style consistency
 
-4. Accessories
+4. Clothing recognition
 
-5. Decorative details
+5. Accessories and details
 
+
+Important:
+
+The character should first look like a cute chibi game character.
+
+Identity should be preserved through:
+
+- hairstyle
+- eyes
+- expression
+- signature features
+
+not through realistic facial proportions.
 
 
 ## Output
