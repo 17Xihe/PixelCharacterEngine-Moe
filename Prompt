@@ -129,15 +129,27 @@ Do not change the personality.
 # Chibi Transformation
 
 
-Convert the person into a cute chibi character.
+Strongly transform the person into a cute chibi character.
 
 
-Character proportions:
+The result must have obvious chibi features:
 
 
-Head:
+- oversized head
+- small body
+- short limbs
+- rounded shapes
+- cute facial expression
 
-Large but natural chibi head
+
+The character should look like:
+
+a cute chibi version of the person.
+
+
+Not:
+
+a realistic pixel version of the person.
 
 
 Body:
