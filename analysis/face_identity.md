@@ -1,394 +1,354 @@
-# Face Identity Analysis
+# Face Identity Analysis (Cute Pixel Style)
 
 
 ## Core Principle
 
-The pixel character must preserve the unique facial identity of the original person.
 
-Do not create a generic cute face.
+Convert the person's facial identity into a cute pixel character.
 
-Convert the person's actual facial characteristics into pixel style.
-
-
-Priority:
-
-1. Face structure
-2. Eye characteristics
-3. Eyebrow characteristics
-4. Mouth characteristics
-5. Expression
-6. Unique facial details
-
-
-
-# 1. Face Shape Analysis
-
-
-Analyze:
-
-Face outline:
-
-- round
-- oval
-- long oval
-- square
-- heart-shaped
-- inverted triangle
-
-
-Jaw:
-
-- soft jawline
-- sharp jawline
-- narrow chin
-- wide chin
-- pointed chin
-
-
-Cheek:
-
-- full cheeks
-- flat cheeks
-- high cheekbones
-
-
-Keep:
-
-The original face silhouette.
-
-
-Avoid:
-
-Changing the face into a standard anime face.
-
-
-
-# 2. Eye Identity Analysis
-
-
-Eyes are the most important identity feature.
-
-
-Analyze:
-
-
-Eye shape:
-
-- almond eyes
-- round eyes
-- narrow eyes
-- upturned eyes
-- downturned eyes
-- hooded eyes
-- double eyelid
-- single eyelid
-
-
-Eye size:
-
-- large
-- medium
-- small
-
-
-Eye proportion:
-
-- distance between eyes
-- eye width
-- eye height
-
-
-Eye angle:
-
-- horizontal
-- upward angle
-- downward angle
-
-
-Eye expression:
-
-- gentle
-- sharp
-- sleepy
-- confident
-- playful
-- innocent
-
-
-Eye details:
-
-- eyelid fold
-- eyelash direction
-- under-eye shape
-- eye highlight position
-
-
-Pixel conversion:
-
-Preserve:
-
-- eye angle
-- eye distance
-- eye expression
-
-
-Do not replace with generic big anime eyes.
-
-
-
-# 3. Eyebrow Identity Analysis
-
-
-Analyze:
-
-
-Shape:
-
-- straight
-- curved
-- raised
-- soft
-
-
-Thickness:
-
-- thick
-- medium
-- thin
-
-
-Position:
-
-- close to eyes
-- high position
-- low position
-
-
-Direction:
-
-- horizontal
-- upward
-- downward
-
-
-Keep eyebrow personality.
-
-Eyebrows strongly affect recognition.
-
-
-
-# 4. Nose Identity Analysis
-
-
-Analyze:
-
-
-Nose shape:
-
-- small nose
-- straight nose
-- rounded nose
-- narrow nose
-
-
-Nose bridge:
-
-- high
-- medium
-- low
-
-
-Nose tip:
-
-- round
-- sharp
-
-
-Pixel conversion:
-
-Simplify but preserve:
-
-- nose position
-- nose length
-- nose shadow
-
-
-
-# 5. Mouth Identity Analysis
-
-
-Analyze:
-
-
-Lip shape:
-
-- thin lips
-- full lips
-- upper lip shape
-- lower lip fullness
-
-
-Mouth width:
-
-- narrow
-- medium
-- wide
-
-
-Mouth corner:
-
-- upward
-- neutral
-- downward
-
-
-Smile type:
-
-- closed smile
-- open smile
-- gentle smile
-- confident smile
-
-
-Lip characteristics:
-
-- lip thickness
-- cupid's bow
-- asymmetry
-
-
-Keep:
-
-The original mouth personality.
-
-
-
-# 6. Expression Identity
-
-
-Analyze the natural expression:
-
-
-Mood:
+The result must be:
 
 - cute
-- calm
-- cool
-- confident
-- shy
-- playful
+- chibi
+- pixel style
+
+while keeping the original person's recognizable facial features.
 
 
-Important:
+Do NOT create a realistic face.
 
-Expression is part of identity.
+Do NOT create a generic anime face.
 
 
-Keep:
+The goal:
 
-- eye emotion
-- mouth emotion
-- face tension
+A person should recognize themselves immediately in the pixel character.
 
 
 
-# 7. Hair Identity
+# Identity Priority
+
+
+Priority order:
+
+
+1. Hairstyle silhouette
+
+2. Eye personality
+
+3. Face shape
+
+4. Expression
+
+5. Mouth characteristics
+
+6. Accessories
+
+
+
+# 1. Chibi Face Proportion
+
+
+Maintain cute pixel proportions:
+
+
+Head:
+
+Large
+
+
+Face:
+
+Soft and simplified
+
+
+Body:
+
+Small
+
+
+Features:
+
+Cute exaggeration is allowed.
+
+
+However:
+
+
+Do not change the person's identity.
+
+
+
+# 2. Eye Identity (Chibi Conversion)
 
 
 Analyze:
 
 
-Hair color:
+Original eye:
 
-Hair length:
-
-Hair volume:
-
-Hair texture:
-
-
-Parting:
-
-- middle part
-- side part
-- messy part
+- shape
+- angle
+- size
+- distance
+- expression
 
 
-Bangs:
-
-- straight bangs
-- curtain bangs
-- side bangs
-- no bangs
+Convert into pixel style:
 
 
-Hair silhouette:
+Keep:
 
-This is a major recognition feature.
-
-
-Keep the overall hair shape.
-
-
-
-# 8. Unique Identity Markers
-
-
-Extract 3-5 strongest recognition features.
+- eye direction
+- eye personality
+- eye mood
 
 
 Examples:
 
 
-Face:
+Original:
 
-- eye shape
-- smile style
-- face outline
+sharp eyes
 
+↓
 
-Hair:
+Pixel:
 
-- hairstyle
-- hair color
+slightly sharper pixel eyes
 
 
-Accessories:
+Original:
 
-- glasses
-- earrings
-- hair ornaments
+gentle round eyes
+
+↓
+
+Pixel:
+
+soft round pixel eyes
 
 
-Expression:
 
-- wink
-- serious look
+Do NOT:
+
+- replace all eyes with identical anime eyes
+- make eyes extremely large
+- remove original eye personality
+
+
+
+# 3. Eyebrow Identity
+
+
+Keep eyebrow characteristics:
+
+
+Analyze:
+
+
+- thickness
+- angle
+- distance from eyes
+
+
+Convert:
+
+
+thick eyebrows
+
+↓
+
+strong pixel eyebrow
+
+
+soft eyebrows
+
+↓
+
+small soft pixel eyebrow
+
+
+
+Eyebrows should support facial recognition.
+
+
+
+# 4. Mouth Identity
+
+
+Analyze:
+
+
+Mouth:
+
+- width
+- curve
+- smile type
+
+
+Convert:
+
+
+Keep:
+
+- smile direction
+- mouth personality
+
+
+Examples:
+
+
+Gentle smile:
+
+↓
+
+small curved pixel smile
+
+
+Confident smile:
+
+↓
+
+slightly raised pixel mouth
+
+
+Do not create:
+
+default cute mouth.
+
+
+
+# 5. Face Shape Conversion
+
+
+Preserve:
+
+
+- face width
+- chin shape
+- cheek feeling
+
+
+Convert:
+
+
+round face
+
+↓
+
+cute round pixel face
+
+
+sharp face
+
+↓
+
+slightly sharper pixel face
+
+
+
+Do not make every character have the same face.
+
+
+
+# 6. Expression Preservation
+
+
+The expression is part of identity.
+
+
+Keep:
+
+
 - smile
+- wink
+- serious
+- calm
+- playful
+
+
+Enhance slightly for cuteness.
+
+
+Example:
+
+
+Real smile
+
+↓
+
+cute pixel smile
 
 
 
-# Final Identity Check
+# 7. Hair Identity (Highest Recognition)
 
 
-Before generating:
-
-Ask:
+Hair is one of the strongest identifiers.
 
 
-"Would someone recognize this pixel character as the same person?"
+Preserve:
 
 
-If no:
-
-Increase:
-
-- facial similarity
-- hairstyle similarity
-- expression similarity
+- hair color
+- hairstyle
+- hair silhouette
+- bangs
+- parting
 
 
-Do not increase:
+Allow:
 
-- anime exaggeration
-- cute deformation
+pixel simplification
+
+
+Do not:
+
+change hairstyle into another style.
+
+
+
+# 8. Cute Enhancement Rules
+
+
+Allowed:
+
+
+✓ larger head
+
+✓ softer face
+
+✓ simplified features
+
+✓ brighter eyes
+
+✓ rounded shapes
+
+
+
+Not allowed:
+
+
+✗ completely different face
+
+✗ generic anime girl/boy
+
+✗ loss of original characteristics
+
+
+
+# Final Recognition Test
+
+
+Before output:
+
+
+The character should look like:
+
+"the same person, but inside a cute pixel game world."
+
+
+Not:
+
+"a random cute pixel character."
